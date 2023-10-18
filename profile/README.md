@@ -12,8 +12,8 @@ If you are a new Web/Design Co-chair for ASSETS (woohoo, that's awesome), here's
 2. Second, you'll want to create your own repo (say, assets2024). You can do this by forking one of the existing repos (e.g., [assets2022](https://github.com/ASSETS-Conference/assets2022)) or by manually creating assets2024 and committing code piece-by-piece. Given that in 2022, we completely redesigned the ASSETS website experience to improve both aesthetics and accessibility, it's likely easiest to start either with the [ASSETS'22 codebase](https://github.com/ASSETS-Conference/assets2022) or the [ASSETS'23 codebase](https://github.com/ASSETS-Conference/assets2023) (ASSETS'23 started as a fork of ASSETS'22 but I haven't tracked that code, so not sure if they made significant changes).
 
 3. Third, deploy your website on to ACM servers. Unfortunately, you have to do this manually using SFTP (yes, for every change). For ASSETS'22, we had the following setup:
-  *  A test server at: https://assets-conference.github.io/assets2022/, which is incredibly easy to setup using GitHub Pages. This allowed us to test out changes before deploying them to ACM.
-  *  A production server at: https://assets22.sigaccess.org/
+   *  A test server at: https://assets-conference.github.io/assets2022/, which is incredibly easy to setup using GitHub Pages. This allowed us to test out changes before deploying them to ACM.
+   *  A production server at: https://assets22.sigaccess.org/
 
 <!--
 
