@@ -1,8 +1,8 @@
 ## Welcome 👋
 
 This is the ASSETS repo for our conference websites. The repo was started in 2022 by Professor Jon E. Froehlich to:
-1. Help others more easily build off the brand new, fully accessible [ASSETS'22 website](https://github.com/ASSETS-Conference/assets2022) created by [@jayhersk](https://github.com/jayhersk), [@EdigaHe](https://github.com/EdigaHe), [@judykong97](https://github.com/judykong97), and [@jonfroehlich](https://github.com/jonfroehlich). 🙏🏽 
-2. Better track and code share between previous ASSETS websites more generally dating back to ASSETS'18 💻
+1. **Help others** more easily build off the brand new, fully accessible [ASSETS'22 website](https://github.com/ASSETS-Conference/assets2022) created by [@jayhersk](https://github.com/jayhersk), [@EdigaHe](https://github.com/EdigaHe), [@judykong97](https://github.com/judykong97), and [@jonfroehlich](https://github.com/jonfroehlich). 🙏🏽 
+2. **Better track and code share** between previous ASSETS websites more generally dating back to ASSETS'18 💻
 
 ### Getting Started
 If you are a new Web/Design Co-chair for ASSETS (woohoo, that's awesome), here's what you need to do:
